@@ -1,1 +1,1 @@
-# hello, world! - A classic project for beginners!
+# Hello, World! - A classic project for beginners!
